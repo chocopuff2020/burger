@@ -5,4 +5,4 @@
     _ config folder to connect to database
     _ practice handlebars
 <br> WATCH VIDEO FOR DEMO </br>
-[![Live Demo Video](https://img.youtube.com/vi/https://www.youtube.com/embed/IkeJlQOyfxg/maxresdefault.jpg)](https://www.youtube.com/embed/IkeJlQOyfxg "Live Demo")
+[![Live Demo Video](https://img.youtube.com/vi/IkeJlQOyfxg/maxresdefault.jpg)](https://www.youtube.com/embed/IkeJlQOyfxg "Live Demo")
